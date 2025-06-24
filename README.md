@@ -10,6 +10,8 @@ print volume dual toolhead use:  290mm x 310mm x 350mm
 
 ![alt text]({7375AE07-6795-42A0-BE48-89EF454D40B0}.png)
 
+![alt text](8d19c64a-38a3-466d-8e4d-e0e45753a5ee-1.PNG)
+
 The original printer was a sidewinder x1, hence the new name paying homage to the printers roots.
 
 Toolheads are based on Chirpy's Yavoth toolhead and further tweaked.
