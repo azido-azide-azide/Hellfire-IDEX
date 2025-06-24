@@ -1,5 +1,5 @@
 # Hellfire IDEX
-Project page for my bedslinge IDEX 3d printer
+Project page for my bedslinger IDEX 3d printer with AWD Y- Axis.
 
 After a long time of procrastination and spinning the cad model around i can finally state that the printer is done.... mostly.
 The only non final part is the xy probe for toolhead alignment.
